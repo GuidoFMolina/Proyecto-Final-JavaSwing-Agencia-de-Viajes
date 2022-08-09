@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppAgencia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Software-Java-Agencia-de-Viajes-master/dist/AppAgencia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
